@@ -1,3 +1,9 @@
+<img width="1512" height="890" alt="1  Revenue Trends" src="https://github.com/user-attachments/assets/3184ad4a-bca0-47b6-a176-1305d0ad2fb2" />
+<img width="1512" height="896" alt="2  Category Performance" src="https://github.com/user-attachments/assets/071501c3-0ddc-4f74-90a2-e44b85dc3038" />
+<img width="1512" height="1135" alt="3  Delivery   Satisfaction" src="https://github.com/user-attachments/assets/b45861ae-eef9-4f2f-ad0b-129dbd2e9b21" />
+<img width="1512" height="895" alt="4  Customer Segments" src="https://github.com/user-attachments/assets/6545ebe7-67cd-479e-89c4-41422d64bec2" />
+<img width="1512" height="896" alt="5  Seller Scorecard" src="https://github.com/user-attachments/assets/89b6f253-af0e-44f6-9a43-fdfc8cd4df82" />
+
 # Olist Brazilian E-Commerce — End-to-End Data Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue)
