@@ -1,4 +1,3 @@
-
 # Olist Brazilian E-Commerce — End-to-End Data Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue)
@@ -23,7 +22,6 @@ A full end-to-end data analyst portfolio project using the [Olist Brazilian E-Co
 ## Project Structure
 
 ```
-text
 olist-ecommerce-analysis/
 ├── notebooks/
 │   ├── notebook_01_data_loading.ipynb
@@ -51,8 +49,6 @@ olist-ecommerce-analysis/
 ```
 
 ---
-
-
 
 ## Phases
 
@@ -138,4 +134,3 @@ olist-ecommerce-analysis/
 
 > Note: Raw data files are not included in this repository due to size.
 > Download from Kaggle and place in `data/` to run the notebooks.
->
