@@ -22,6 +22,8 @@ A full end-to-end data analyst portfolio project using the [Olist Brazilian E-Co
 
 ## Project Structure
 
+```
+text
 olist-ecommerce-analysis/
 ├── notebooks/
 │   ├── notebook_01_data_loading.ipynb
@@ -45,6 +47,8 @@ olist-ecommerce-analysis/
 │   ├── 12_feature_importance.png
 │   └── business_report.md
 └── README.md
+
+```
 
 ---
 
@@ -123,7 +127,14 @@ olist-ecommerce-analysis/
 
 ## Dataset
 
-**Source:** [Olist Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)**Period:** September 2016 – August 2018**Tables:** 9 relational CSVs**Orders:** 99,441 total, 98,666 complete
+**
+    Source:** [Olist Brazilian E-Commerce
+](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)**
+    Period:** September 2016 – August 2018
+**
+    Tables:** 9 relational CSVs
+**
+    Orders:** 99,441 total, 98,666 complete
 
 > Note: Raw data files are not included in this repository due to size.
 > Download from Kaggle and place in `data/` to run the notebooks.
