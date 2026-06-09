@@ -109,19 +109,18 @@ olist-ecommerce-analysis/
 
 ## Tech Stack
 
-| Tool                 | Purpose               |
-| -------------------- | --------------------- |
-| Python 3.14          | Core language         |
-| pandas               | Data manipulation     |
-| matplotlib / seaborn | Static visualisations |
-| plotly               | Interactive charts    |
-| scikit-learn         | ML models             |
-| XGBoost              | Churn prediction      |
-| Streamlit            | Interactive dashboard |
+| Tool                 | Purpose                  |
+| -------------------- | ------------------------ |
+| Python 3.14          | Core language            |
+| pandas               | Data manipulation        |
+| matplotlib / seaborn | Static visualisations    |
+| plotly               | Interactive charts       |
+| scikit-learn         | ML models                |
+| XGBoost              | Churn prediction         |
+| Streamlit            | Interactive dashboard--- |
 
 ---
 
-## Dataset
 
 
 ## Dataset
@@ -133,6 +132,10 @@ olist-ecommerce-analysis/
 **Tables:** 9 relational CSVs
 
 **Orders:** 99,441 total, 98,666 complete
+
+---
+
+
 
 > Note: Raw data files are not included in this repository due to size.
 > Download from Kaggle and place in `data/` to run the notebooks.
