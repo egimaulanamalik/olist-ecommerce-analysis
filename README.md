@@ -123,14 +123,16 @@ olist-ecommerce-analysis/
 
 ## Dataset
 
-**
-    Source:** [Olist Brazilian E-Commerce
-](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)**
-    Period:** September 2016 – August 2018
-**
-    Tables:** 9 relational CSVs
-**
-    Orders:** 99,441 total, 98,666 complete
+
+## Dataset
+
+**Source:** [Olist Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
+**Period:** September 2016 – August 2018
+
+**Tables:** 9 relational CSVs
+
+**Orders:** 99,441 total, 98,666 complete
 
 > Note: Raw data files are not included in this repository due to size.
 > Download from Kaggle and place in `data/` to run the notebooks.
